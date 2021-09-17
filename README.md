@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charan-Chintha
 - 👀 I’m interested in Database and devops technologies
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently preparing on Az-900 Certification
 - 💞️ I’m looking to collaborate on Database and Devops  Teams
 - 📫 How to reach me mail: chinthacharan2@gmail.com Mobile: +91 9440166028
 
