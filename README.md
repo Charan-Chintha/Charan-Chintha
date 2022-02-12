@@ -2,7 +2,7 @@
 - 👀 I’m interested in Database and devops technologies
 - 🌱 I’m currently preparing on Az-900 Certification
 - 💞️ I’m looking to collaborate on Database and Devops  Teams
-- 📫 How to reach me mail: chinthacharan2@gmail.com Mobile: +91 9440166028
+- 📫 How to reach me mail: charankc218@gmail.com Mobile: +91 9440166028
 
 <!---
 Charan-Chintha/Charan-Chintha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
